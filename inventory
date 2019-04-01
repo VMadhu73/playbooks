@@ -1,1 +1,2 @@
-10.0.2.15
+[localhost]
+127.0.0.1  ansible_connection=local
