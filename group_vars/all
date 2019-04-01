@@ -1,4 +1,4 @@
 ---
 sname: itik
 sfull: "ItikAbc"
-file1: /root/text1.txt
+file1: "/root/text1.txt"
